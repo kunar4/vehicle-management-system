@@ -49,6 +49,11 @@
   </a>
 </p>
 
+<h3 align="left">Demo Video:</h3>
+<div align="center">
+  <iframe src="https://drive.google.com/file/d/1ZGR2xUO78N--jIojj-5Ui4eED0ebVsJO/preview" width="640" height="360" allow="autoplay" allowfullscreen></iframe>
+</div>
+
 <h3 align="left">Installation & Usage:</h3>
 <ul>
   <li>Clone the repository using: <code>git clone https://github.com/kunar4/vehicle-management-system.git</code></li>
