@@ -49,11 +49,6 @@
   </a>
 </p>
 
-<h3 align="left">Demo Video:</h3>
-<div align="center">
-  <iframe src="https://drive.google.com/file/d/1ZGR2xUO78N--jIojj-5Ui4eED0ebVsJO/preview" width="640" height="360" allow="autoplay" allowfullscreen></iframe>
-</div>
-
 <h3 align="left">Installation & Usage:</h3>
 <ul>
   <li>Clone the repository using: <code>git clone https://github.com/kunar4/vehicle-management-system.git</code></li>
@@ -63,6 +58,10 @@
   <li>Update database connection credentials in the PHP configuration files.</li>
   <li>Access the project by navigating to <code>http://localhost/vehicle-management-system/</code> in your browser.</li>
 </ul>
+
+<h3 align="left">Demo Video</h3>
+
+[![Watch the demo video](https://i.postimg.cc/q72ZWV21/Siren-Sleuth.png)](https://drive.google.com/file/d/1ZGR2xUO78N--jIojj-5Ui4eED0ebVsJO/view?usp=drive_link)
 
 <h3 align="left">How to Contribute:</h3>
 <p>If you want to improve this project, please fork the repository, make your changes, and submit a pull request. Contributions and suggestions are welcome!</p>
